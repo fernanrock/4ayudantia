@@ -29,6 +29,7 @@ DELETE:
 
 Proceso para eliminar nueva encuesta
 (Omitiremos los pasos de inicio de sesión previamente explicados, ya que se infiere que la encuesta será borrada dentro de la misma sesión)
+
 1.	Estando en el menú del administrador, en la parte superior izquierda donde dice Encuesta “Nombre de la encuesta”, en el icono donde sale cruzado un desatornillador y un martillo, pinchamos y sale la opción eliminar encuesta.
 2.	Nos saldrá un mensaje de advertencia de que se eliminara completamente y todo lo asociado a ella, damos en el botón eliminar encuesta. De esta manera se borra la encuesta y nos devuelve al menú principal del panel de administrador.
 3.	Vamos a la parte superior derecha en el combo box donde salen “Encuestas:” y podemos verificar que la encuesta ha sido eliminada.
