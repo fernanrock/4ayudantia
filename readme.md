@@ -26,6 +26,37 @@ Proceso para crear una nueva encuesta
 12.	En el mismo menú, el primer icono (cuadrado rojo), se presiona y sirve para activar la encuesta, salen unas condiciones y damos al botón save/ Activate survey, y nos aparecerá un mensaje de que el cuestionario ha sido activado, también nos sale la opción de restringir la encuesta, esto depende del usuario y damos al botón pertinente.
 13.	Finalmente nos aparece la encuesta con sus características y sale la URL de la encuesta, ahí pinchamos al link y vamos a responder la encuesta.
 
+READ:
+
+Para poder “leer” alguna tabla o en si la misma encuesta, debemos importarla y LimeSurvey nos permite hacerlo de una forma sencilla.
+
+Al ingresar a LimeSurvey como administrador, en la parte superior derecha vemos un botón “+” que nos permite crear encuestas como también importarlas, al clickear este botón nos despliega una especie de menú, en donde podemos darle los parámetros a la encuesta; en las pestañas que nos muestran, la penúltima de estas la seleccionamos “ IMPORTAR” , seleccionamos esta pestaña y nos aparece un botón  muy común, “examinar” en donde si lo presionamos nos despliega una ventana para poder buscar el archivo que ya ha sido exportado desde otra máquina. Cabe destacar que junto con este botón “examinar” nos muestra el tipo de archivo que podemos importar, los cuales son: .lss - .cvs - .txt que corresponden al tipo de estructura de la encuesta; o bien importar un archivo de encuesta (.lsa). 
+
+UPDATE:
+
+Este paso consiste en poder modificar los aspectos creados en una encuesta seleccionada. Luego de haber iniciado sesión (pasos explicados anteriormente), selecciona una encuesta, luego de haberla escogido se desplegara un submenú –relacionado a la encuesta escogida- 
+
+1.- En el icono de propiedades de la encuesta (su icono es un lápiz) podemos editar elementos de texto de la encuesta       como titulo de la encuesta, mensaje de bienvenida, descripción de la encuesta, mensaje de despedida de la encuesta,     url de salida, etc.
+
+2.1- GENERAL: entro del mismo icono de propiedades de la encuesta, seleccionamos configuración general de esta en           donde podemos modificar idiomas, el nombre de administrador y su email (esto en la primera pestaña)
+
+2.2 PRESENTACION Y NAVEGACION:  en la segunda pestaña, podemos modificar la plantilla de la encuesta, seleccionar           opciones de la encuesta, tales como mostrar o no mensaje de bienvenida, mostrar botones de selección, barras de         progreso, entre otras opciones
+
+2.3 CONTROL DE PUBLICACION Y ACCESO: Esta opción podemos modificar si la encuesta será pública o no, darle una fecha de     inicio y expiración de esta
+
+2.4 ADMINISTRACION DE LA NOTIFICACION Y DE LOS DATOS: en donde se puede modificar notificación de la encuesta al            administrador, guardar direcciones de IP, guardar tiempos de respuestas entre otras.
+  
+2.5 ENCUESTADOS/AS: se escogen distintas opciones sobre los encuestados tales como si estos pueden ser anónimos o no,       permitir su inscripción publica, enviar correos de confirmación para los usuarios, permitir múltiples respuestas        etc.
+
+2.6 INTEGRACION DEL PANEL: se añaden o modifican parámetros de url
+
+2.7 RECURSOS: se modifican archivos subidos como imágenes, flash o importar recursos desde un archivo .zip
+
+3. Dentro de propiedades de la encuesta se pueden modificar los permisos de estas, en donde se crean usuarios o grupos de usuarios a los que estarán dirigidos específicamente la encuesta seleccionada
+
+4 En el mismo submenú de la encuesta podemos modificar los usuarios, haciendo click en el ultimo icono de este llamado   Gestion de encuestados, en donde se despliega otra pantalla con un menú para poder mostrarlos, eliminarlos, agregar     otros encuestados/as, poder crear encuestados ficticios, generar contraseñas en el caso que la encuesta sea con acceso   restringido, etc
+
+
 
 DELETE:
 
