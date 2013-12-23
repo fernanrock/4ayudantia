@@ -5,9 +5,6 @@ Desde este momento está preparado nuestro servidor para ser "montado" por nuest
 Una vez realizada la descarga, descomprimimos nuestro paquete con un programa determinado de compresion de archivos (preferencia WINRAR) en una carpeta definida, y nos dirigimos a la direccion donde instalamos previamente XAMPP (Generalmente C:\Xampp), ubicamos la carpeta HTDOCS en donde está contenido archivo index por defecto de XAMPP la cual borraremos o simplemente la reubicaremos en una carpeta. Una vez ahí, copiamos la carpeta previamente extraída y nos dirigimos nuevamente a nuestro navegador en donde volvemos a ingresar Https://Localhost, que seleccionaremos nuestra carpeta Limesurvey y procederemos posteriormente la instalacion de la aplicacion.
 
 
-Para importar una encuesta, en la pantalla principal, clickeamos en el signo "+"(crear o importar encuesta), y posteriormente en la pestaña Importar, se divisará el boton seleccionar, el cual podremos seleccionar un archivo con extension .lss y posteriormente cargar en nuestra aplicacion
-
-
 CREATE:
 
 Proceso para crear una nueva encuesta
